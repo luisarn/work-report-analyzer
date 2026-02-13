@@ -38,10 +38,3 @@ Usage
 ```bash
 python work_report_analyzer.py
 ```
-
-Notes
-
-- The script reads Excel files from the `work_reports` folder and writes a digest there.
-- Review `work_report_analyzer6.py` for options and additional behavior.
-
-If you want, I can also add a small test script to validate different Excel header formats.
